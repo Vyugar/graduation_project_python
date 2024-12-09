@@ -1,0 +1,4 @@
+cffi
+pycparser
+pygame
+pymunk

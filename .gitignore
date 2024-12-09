@@ -1,0 +1,9 @@
+*pyc
+setup.py
+.idea
+.ropeproject
+src/setup.py
+env/
+__pycache__
+.mypy_cache
+models_compressed
