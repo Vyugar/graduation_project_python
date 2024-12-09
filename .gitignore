@@ -1,8 +1,11 @@
 *pyc
 .idea
+/.idea
 .ropeproject
 src/setup.py
 env/
 __pycache__
+/source/__pycache__
+/source/imgui.ini
 .mypy_cache
 models_compressed
