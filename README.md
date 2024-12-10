@@ -2,7 +2,7 @@
 
 **[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен **Керимовым Вьюгаром** в рамках курса **"Python-разработчик. Специалист"** в **GeekBrains** на тему **"Исследование особенностей разработки игр с использованием языка программирования Python"**.
 
-**[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен в формате *.docx* и размещен **[в корневой папке](Graduation_project_python_Vyugar.docx)**  данного репозитария.
+**[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен в формате *.docx* и размещен **[в корневой папке](Graduation_project_python_Vyugar.docx)**  данного репозитария. Также для удобства чтения в данном репозитарии размещена [копия данного проекта](Graduation_project_python_Vyugar.pdf) в формате pdf.
 
 К **[диплому](Graduation_project_python_Vyugar.docx)** в качестве **практического материала** прилагаются написанные на **Python** с использованием различных библиотек, фреймворков и движков прототипы игры **"Ursina Car"**, **"Pygame Angry Birds"**, **"Panda3d Arena"** и **"Harfang Dogfight"**.
 
