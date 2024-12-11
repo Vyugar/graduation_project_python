@@ -4,7 +4,7 @@
 
 **[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен в формате *.docx* и размещен **[в корневой папке](Graduation_project_python_Vyugar.docx)**  данного репозитария. Также для удобства чтения в данном репозитарии размещена [копия данного проекта](Graduation_project_python_Vyugar.pdf) в формате pdf.
 
-К **[диплому](Graduation_project_python_Vyugar.docx)** в качестве **практического материала** прилагаются написанные на **Python** с использованием различных библиотек, фреймворков и движков прототипы игры **"Ursina Car"**, **"Pygame Angry Birds"**, **"Panda3d Arena"** и **"Harfang Dogfight"**.
+К **[дипломному проекту](Graduation_project_python_Vyugar.docx)** в качестве **практического материала** прилагаются написанные на **Python** с использованием различных библиотек, фреймворков и движков прототипы игры **"Ursina Car"**, **"Pygame Angry Birds"**, **"Panda3d Arena"** и **"Harfang Dogfight"**.
 
 **Прототипы игр** были сделаны:
 1) **"Ursina Car"**  - с использованием библиотеки *Ursina* (популярная библиотека для создания 2D и 3D игр) на **Python**;
