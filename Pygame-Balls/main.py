@@ -8,7 +8,7 @@ pygame.init()
 # Параметры окна
 WIDTH, HEIGHT = 1024, 768
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Игровой проект Шары в жанре аркада с помощью библиотеки Pygame")
+pygame.display.set_caption("Игра в жанре аркада Pygame-Balls")
 
 # Цвета
 WHITE = (255, 255, 255)
