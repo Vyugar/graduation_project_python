@@ -1,2 +1,0 @@
-python setup.py bdist_apps
-python3 setup.py bdist_apps
