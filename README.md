@@ -2,7 +2,7 @@
 
 **[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен **Керимовым Вьюгаром** в рамках курса **"Python-разработчик. Специалист"** в **GeekBrains** на тему **"Исследование особенностей разработки игр с использованием языка программирования Python"**.
 
-**[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен в формате *.docx* и размещен **[в корневой папке](Graduation_project_python_Vyugar.docx)**  данного репозитария. Также для удобства чтения в данном репозитарии размещена [копия данного проекта](Graduation_project_python_Vyugar.pdf) в формате pdf.
+**[Дипломный проект](Graduation_project_python_Vyugar.docx)** подготовлен в формате *.docx* и размещен **[в корневой папке](Graduation_project_python_Vyugar.docx)**  данного репозитария. Также для удобства чтения в данном репозитарии размещена **[копия данного проекта](Graduation_project_python_Vyugar.pdf)** в формате **pdf**.
 
 К **[дипломному проекту](Graduation_project_python_Vyugar.docx)** в качестве **практического материала** прилагается написанная на **Python** с использованием библиотеки *Pygame* игра в жанре аркады "Pygame-Ball".
 
